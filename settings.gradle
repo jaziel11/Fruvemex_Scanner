@@ -1,0 +1,2 @@
+rootProject.name='Fruvemex Scanner'
+include ':app'
